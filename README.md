@@ -3,8 +3,8 @@ title: "Data Visualization and Analysis (CSE-6242)"
 author: "egriffin33   Eric Griffin"
 date: "June 2, 2018"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
